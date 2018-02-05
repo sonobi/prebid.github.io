@@ -182,4 +182,3 @@ In alphabetical order:
 + rml <rloveland@appnexus.com>
 + ronenst <stern.ronen@gmail.com>
 + sberry <sberry@appnexus.com>
-+ studnicky <astudnicky@sonobi.com>
